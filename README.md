@@ -1,2 +1,2 @@
 # hashtag
-usado para trinar conteúdos de aula
+usado para treinar conteúdos de aula
